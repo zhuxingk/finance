@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../APIscan/.idea/APIscan.iml" filepath="$PROJECT_DIR$/../APIscan/.idea/APIscan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../enjoy/.idea/enjoy.iml" filepath="$PROJECT_DIR$/../enjoy/.idea/enjoy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject6.iml" filepath="$PROJECT_DIR$/.idea/pythonProject6.iml" />
+    </modules>
+  </component>
+</project>
